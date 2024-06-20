@@ -1,0 +1,3 @@
+const alunos = ['Luiz', 'Maria', 'João'];
+
+console.log(alunos instanceof Array); //VALIDA SE O OBJETO EH UMA INSTANCIA DE...
